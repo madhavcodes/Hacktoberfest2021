@@ -1,5 +1,7 @@
-# Hacktoberfest2021
-A Beginner friendly repo to push PRs for Hacktoberfest2021
+
+#<h1 align="center">Hi 👋, I'm Sangwan</h1>
+<h3 align="center">A passionate frontend developer from India</h3> Hacktoberfest2021
+This is a Beginner friendly repo to push PRs for Hacktoberfest2021
 
 ### How to contribute?
 * Fork this repo
